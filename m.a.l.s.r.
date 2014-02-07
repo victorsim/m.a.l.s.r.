@@ -1,0 +1,99 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Beauty and Joy of Computing</title>
+</head>
+<body>
+  <p id="top"><b>Understanding M.A.L.S.R.</b></p> 
+  <p> Modeling</p>
+  <p><a href="#arc_shot">Animation</a></p>
+  <p><a href="#sec">Lighting and Shading</a></p>
+  <p><a href="#third">Rendering</a></p>
+  
+<h1>Modeling<br />The act or activity of making 3-D Models,</h1>
+        <bl>Could Come From...</bl>
+   <ul>
+      <li><i>3-D Scanners,</i></li> 
+    <img src="http://cyberware.com/images/male01A-PXE.png">   
+    <a href="http://cyberware.com/">"Click to Learn More"<a/>
+      <li><i>Interactive Modeling,</i></li>
+      <li><i>Model libraries,</i></li> 
+      <li><i>Procedural Techniques</i></li>
+   </ul>
+        <hr />
+    
+   
+     
+     
+     <p id="arc_shot"></p>
+   <h2>Animation</h2>
+    <p><b />A process of creating a continous motion and shape by utilizing many static illustrations in a fast pace motion</p>
+   <h3>Could Come From...</h3> 
+   
+   <ol>
+        <li>Interactive Keyframing</li>
+        <li>Procedural Motion</li>      
+        <li>Motion Capture</li>
+    
+    <ul>
+        <li>This Has put some animator's out of a job.</li>
+        <li>Used in Avatar LotR,
+      </ul>  
+        <li>Physics</li>
+        <li>Evoulution, Rule System</li>
+        <li><b>Emotions Conveyed</b></li>
+      <ul>
+      <li>Human's are very good at reading bad motion!</li>
+    </ul>
+     <hr />
+     
+     
+     
+     
+     
+     
+     <p id="sec"></p>
+     <h2>!Lighting and Shadow!</h2>
+     <h3>Just like a Movie</h3>
+     
+     <ol>
+        <li>Artist set up shot for mood</li>
+        <li>Teams of Artist apply hand-drawn and procedural textures, called "shaders"</li>
+      <ul>
+        <li>There are layers of them</li>        
+      </ul>
+        <li>The Virtual 3-D camera and it's Movement's</li>
+     
+     </ol>  
+     <a href="http://hof.povray.org/2b.html">
+       <img src="http://hof.povray.org/images/2b.jpg"><a/>
+       <hr />
+          
+       <p id="third"></p>
+       <h2> Rendering:Global Illumination</h2>
+     <ol>
+     <li>What's our Goal?</li>
+        <ul>
+          <li>Find rendering algorithims that stimulate what red light does in real world</li>
+          <li>"Photo-realism"</li>
+     </ul>
+          <li>Limitations
+     <ul>
+          <li>There are<b>Way</b> too many photons to stimulate all of them once!</li>
+          <li>Every technique is a different way to stimulate the real world</li>
+          <li>Each cost & benefits</li>
+     </ul>
+          <li>Direct vs Global Illumination</li>
+     
+       
+     </ol>
+        
+        
+       <!--LooksBoring!,Cascading Style Sheets will fix that, throw in some JavaScript and your golden the follow the backend with ...Apache,MariaSQL,Something else-->
+
+
+
+
+    <p><a href="#top">Top of Page</a></p>
+</body>
+</html>
