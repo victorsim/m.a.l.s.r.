@@ -5,17 +5,17 @@
 </head>
 <body>
   <p id="top"><b>Understanding M.A.L.S.R.</b></p> 
-  <p> Modeling</p>
+  <p><a href="#Modeling">Modeling</a></p>
   <p><a href="#arc_shot">Animation</a></p>
   <p><a href="#sec">Lighting and Shading</a></p>
   <p><a href="#third">Rendering</a></p>
-  
+  <p id="Modeling"></p> 
 <h1>Modeling<br />The act or activity of making 3-D Models,</h1>
         <bl>Could Come From...</bl>
    <ul>
       <li><i>3-D Scanners,</i></li> 
-    <img src="http://cyberware.com/images/male01A-PXE.png">   
-    <a href="http://cyberware.com/">"Click to Learn More"<a/>
+     <left> <img src="http://cyberware.com/images/male01A-PXE.png"width="600" height="400" /></left>   
+     <a href="http://cyberware.com/">"Click to Learn More"<a/> 
       <li><i>Interactive Modeling,</i></li>
       <li><i>Model libraries,</i></li> 
       <li><i>Procedural Techniques</i></li>
@@ -66,7 +66,7 @@
      
      </ol>  
      <a href="http://hof.povray.org/2b.html">
-       <img src="http://hof.povray.org/images/2b.jpg"><a/>
+     <img src="http://hof.povray.org/images/2b.jpg" width="400" height="500" /><a/>
        <hr />
           
        <p id="third"></p>
@@ -84,10 +84,33 @@
           <li>Each cost & benefits</li>
      </ul>
           <li>Direct vs Global Illumination</li>
-     
        
      </ol>
-        
+       <hr />   
+       <center>What are Programming Paradigm's?</center>
+       <h1>A way to think of it is,</h1>
+    <ol>
+      <li>What are they?</li>
+    <ul>
+      <li>Most are Hybirds!</li>
+    </ul>  
+      <li><strong />The Four Primary Ones</li>
+    <ul>
+      <li>Functional</li>
+      <li>Imperative</li>
+      <li>Object Oriented</li>
+      <li>Declaritive</li>
+    <ol>
+      <li>OOP Example<br>Sketchpad</li>
+     </ol>
+    </ul>
+        <li>Turning Completeness</li>
+      <li>Summary</li>
+      <p> Program Paradigms are</p>
+      
+      <li>The concepts and abstrations used to represent the elements of a program (e.g. objects, functions, variables, constraints, etc.) and the steps that compose a computation (assignation, evaluation, continuations, data flows, etc.)</li>
+      <li>Or a way to classify the style of programing.</li>
+    </ol>
         
        <!--LooksBoring!,Cascading Style Sheets will fix that, throw in some JavaScript and your golden the follow the backend with ...Apache,MariaSQL,Something else-->
 
